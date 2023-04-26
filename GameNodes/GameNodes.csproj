@@ -44,7 +44,6 @@
         <Compile Include="GameEvent.cs" />
         <Compile Include="GameNode.cs" />
         <Compile Include="GameUpdaters.cs" />
-        <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
